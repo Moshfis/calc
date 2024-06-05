@@ -8,7 +8,7 @@ body{
 }
 #calculator{
     font-family: Arial, sans-serif;
-    background-color: hsl(0, 0%, 15%);
+    background-color: hsl(0, 40%, 61%);
     border-radius: 15px;
     width: 500px;
     height: 600px;
@@ -22,7 +22,7 @@ body{
     font-size: 3rem;
     text-align: left;
     border: none;
-    background-color: hsl(0, 0%, 20%);
+    background-color: hsl(0, 34%, 52%);
     color: white;
 }
 
@@ -45,7 +45,7 @@ button{
  
 }
 button:hover{
-    background-color: hsl(0, 0%, 40%);
+    background-color: hsl(0, 18%, 51%);
 }
 button:active{
     background-color: hsl(0, 0%, 50%);
